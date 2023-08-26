@@ -2,7 +2,7 @@
 
 <img src="./logo.jpg" style="width:300px;">
 
-- This repo contains all of 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- This repo contains all of 3 courses in the EDx Professional Certificate: [CS50's Harvard Computer Science for Web Programming]()
 
 ## Table of Content
 
@@ -31,6 +31,12 @@
   * Week 5: 
   * Week 6: 
 </details>
+
+# XSeries Program
+<img src="./XSeries Program.png">
+
+
+
 <details>
 
 # Professional Certificate Program
