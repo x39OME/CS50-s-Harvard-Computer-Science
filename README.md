@@ -6,6 +6,9 @@
 
 ## Table of Content
 
+# XSeries Program
+<img src="./XSeries Program.png">
+
 <details>
 <summary><b>Course 1: </b><a href=""><b>CS50's Introduction to Computer Science</b></a></summary>
 
@@ -32,17 +35,10 @@
   * Week 6: 
 </details>
 
-# XSeries Program
-<img src="./XSeries Program.png">
-
-
-
-<details>
-
 # Professional Certificate Program
 <img src="./Professional Certificate Program.png">
 
-  
+<details>
 <summary><b>Course 3: </b><a href=""><b>CS50's Web Programming with Python and JavaScript</b></a></summary>
 
   * Week 1: 
