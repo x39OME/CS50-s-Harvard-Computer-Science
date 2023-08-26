@@ -1,4 +1,4 @@
-# Harvard Computer Science for Web Programming
+# CS50's Harvard Computer Science for Web Programming
 
 <img src="./logo.jpg" style="width:300px;">
 
